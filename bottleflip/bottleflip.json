@@ -1,0 +1,17 @@
+{
+  "ads_enabled": false,
+  "use_test_ads": false,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": false,
+  "interstitial_every_n_gameovers": 3,
+  "interstitial_min_seconds_between_shows": 340,
+  "max_ad_content_rating": "G",
+  "tag_for_child_directed_treatment": true,
+  "tag_for_under_age_of_consent": true,
+  "test_device_ids": [],
+  "android_banner_ad_unit_id": "ca-app-pub-4061680948895008/9165608413",
+  "android_interstitial_ad_unit_id": "ca-app-pub-4061680948895008/2676221680",
+  "ios_banner_ad_unit_id": "ca-app-pub-4061680948895008/5226363403",
+  "ios_interstitial_ad_unit_id": "ca-app-pub-4061680948895008/5226363403"
+}
