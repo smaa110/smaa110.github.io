@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "use_test_ads": false,
   "banner_enabled": true,
   "interstitial_enabled": true,
